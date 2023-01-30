@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just a self introduction
+
 ---
+My name is Lingjun Zhu. I am a graduate student at Georgia Tech, majoring in Electrical and Computer Engineering. I work as a research assistant at the GTCAD lab under the guidance of Prof. Sung Kyu Lim.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My research interests include physical design and analysis for 3D ICs. Currently, I am working on evaluating and addressing power delivery challenges in 3D ICs and advanced technology nodes. My research interests also include physical design, thermal analysis, and EDA solutions for high-performance 3D ICs.

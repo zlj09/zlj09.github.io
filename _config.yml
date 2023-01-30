@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/white-album-label-side-d.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,8 +51,8 @@ round-avatar: true
 social-network-links:
   email: "lingjun@gatech.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "Lingjun Zhu"
   github: zlj09
+  # facebook: "Lingjun Zhu"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
@@ -88,7 +88,7 @@ rss-description: This is zlj09's blog
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
