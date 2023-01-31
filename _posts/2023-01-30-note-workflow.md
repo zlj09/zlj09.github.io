@@ -15,7 +15,7 @@ I still prefer OneNote for note taking, but I am also interested in Markdown for
 
 This plugin allow us to write Markdown in OneNote and display it with just one push button. In fact, I am currently writing this post with this setup:
 
-![](image/2023-01-30-note-workflow/image_1.5afd9432.png)
+![](/assets/img/2023-01-30-note-workflow/image_1.5afd9432.png)
 
 After writing this note, I can export it into Markdown and upload it to the GitHub page. Let's try and see if it works.
 
