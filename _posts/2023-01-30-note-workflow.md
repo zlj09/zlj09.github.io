@@ -11,7 +11,7 @@ I set up a new workflow for note taking and publishing with OneNote + OneMark + 
 
 # Setup
 
-I still prefer OneNote for note taking, but I am also interested in Markdown for its simple syntax and publication. Today, I found the perfect plugin to combine these two: `<a href="https://onemark.neux.studio/">`OneMark `</a>` by Neux Lab.
+I still prefer OneNote for note taking, but I am also interested in Markdown for its simple syntax and publication. Today, I found the perfect plugin to combine these two: [OneMark](`https://onemark.neux.studio/) by Neux Lab.
 
 This plugin allow us to write Markdown in OneNote and display it with just one push button. In fact, I am currently writing this post with this setup:
 
