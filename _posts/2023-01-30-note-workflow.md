@@ -29,4 +29,6 @@ I think it works! This is the screenshot from the blog website:
 
 But maybe it is better with the other way around... How about write the Markdown note first, then import it into OneNote?
 
+It doesn't look very great... Maybe I should drop OneNote, or find another solution.
+
 ![1675123153645](image/2023-01-30-note-workflow/1675123153645.png)
